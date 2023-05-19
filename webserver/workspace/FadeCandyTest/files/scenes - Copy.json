@@ -1,0 +1,571 @@
+{
+  "scenes": [
+    {
+      "name": "Seahawks",
+      "type": 0,
+      "id": 0,
+      "options": {
+        "colors": [
+          {
+            "hex": "#00EDFF"
+          },
+          {
+            "hex": "#00FF2F"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "Neon",
+      "type": 0,
+      "id": 1,
+      "options": {
+        "colors": [
+          {
+            "hex": "#00EDFF"
+          },
+          {
+            "hex": "#00FF2F"
+          },
+          {
+            "hex": "#FFFF00"
+          },
+          {
+            "hex": "#F800FF"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "L -\u003e R Rainbow",
+      "type": 1,
+      "id": 2,
+      "options": {
+        "colors": [],
+        "customOptions": {
+          "direction": "LEFT",
+          "speed": "0.5",
+          "smoothness": "2.0"
+        }
+      }
+    },
+    {
+      "name": "Orange \u0026 Blue Circles",
+      "type": 2,
+      "id": 3,
+      "options": {
+        "colors": [
+          {
+            "hex": "#F25A10"
+          },
+          {
+            "hex": "#005EFF"
+          }
+        ],
+        "customOptions": {
+          "width": "1.1",
+          "speed": "0.07",
+          "dropMinTime": "2.5",
+          "dropMaxTime": "8"
+        }
+      }
+    },
+    {
+      "name": "Raining",
+      "type": 3,
+      "id": 4,
+      "options": {
+        "colors": [
+          {
+            "hex": "#4B9CF8"
+          }
+        ],
+        "customOptions": {
+          "dropLength": "7",
+          "dropValueStart": "0.6",
+          "dropMinTime": "0.3",
+          "dropMaxTime": "1",
+          "speed": "10"
+        }
+      }
+    },
+    {
+      "name": "ImBlue (Da Ba Dee)",
+      "type": 0,
+      "id": 5,
+      "options": {
+        "colors": [
+          {
+            "hex": "#1034F2"
+          },
+          {
+            "hex": "#4EE8FF"
+          },
+          {
+            "hex": "#0086FF"
+          },
+          {
+            "hex": "#19FFEB"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "Red \u0026 Blue Dots",
+      "type": 0,
+      "id": 6,
+      "options": {
+        "colors": [
+          {
+            "hex": "#ff0000"
+          },
+          {
+            "hex": "#0073ff"
+          }
+        ],
+        "customOptions": {
+          "advance": 0.02,
+          "colorAdvance": 1.0E-4
+        }
+      }
+    },
+    {
+      "name": "White",
+      "type": 0,
+      "id": 7,
+      "options": {
+        "colors": [
+          {
+            "hex": "#FFFFFF"
+          }
+        ],
+        "customOptions": {
+          "advance": "0.02",
+          "colorAdvance": "0.0001"
+        }
+      }
+    },
+    {
+      "name": "Rain",
+      "type": 3,
+      "id": 8,
+      "options": {
+        "colors": [
+          {
+            "hex": "#4B9CF8"
+          }
+        ],
+        "customOptions": {
+          "dropLength": "7",
+          "dropValueStart": "0.6",
+          "dropMinTime": "0.3",
+          "dropMaxTime": "1",
+          "speed": "10"
+        }
+      }
+    },
+    {
+      "name": "Fast circle",
+      "type": 2,
+      "id": 9,
+      "options": {
+        "colors": [],
+        "customOptions": {
+          "width": "1.1",
+          "speed": "0.07",
+          "dropMinTime": "1",
+          "dropMaxTime": "2"
+        }
+      }
+    },
+    {
+      "name": "UW Huskies",
+      "type": 0,
+      "id": 10,
+      "options": {
+        "colors": [
+          {
+            "hex": "#A201E9"
+          },
+          {
+            "hex": "#FFD600"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "Fall",
+      "type": 0,
+      "id": 11,
+      "options": {
+        "colors": [
+          {
+            "hex": "#FF4800"
+          },
+          {
+            "hex": "#FE770F"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "Purple Dots",
+      "type": 0,
+      "id": 12,
+      "options": {
+        "colors": [
+          {
+            "hex": "#D783FF"
+          },
+          {
+            "hex": "#9F06AC"
+          },
+          {
+            "hex": "#7D01FF"
+          },
+          {
+            "hex": "#D4B4FF"
+          }
+        ],
+        "customOptions": {
+          "advance": "0.02",
+          "colorAdvance": "0.0001"
+        }
+      }
+    },
+    {
+      "name": "Blues and Purples",
+      "type": 0,
+      "id": 13,
+      "options": {
+        "colors": [
+          {
+            "hex": "#170AF1"
+          },
+          {
+            "hex": "#0A85FF"
+          },
+          {
+            "hex": "#2FCDFF"
+          },
+          {
+            "hex": "#6B05F3"
+          }
+        ],
+        "customOptions": {
+          "advance": "0.02",
+          "colorAdvance": "0.0001"
+        }
+      }
+    },
+    {
+      "name": "rainbow dots",
+      "type": 0,
+      "id": 14,
+      "options": {
+        "colors": [
+          {
+            "hex": "#FF1E1F"
+          },
+          {
+            "hex": "#FF7C00"
+          },
+          {
+            "hex": "#FAFF1B"
+          },
+          {
+            "hex": "#15FF0D"
+          },
+          {
+            "hex": "#0092FF"
+          },
+          {
+            "hex": "#A713FE"
+          },
+          {
+            "hex": "#FB0293"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "slow rain",
+      "type": 3,
+      "id": 15,
+      "options": {
+        "colors": [
+          {
+            "hex": "#4A90FF"
+          },
+          {
+            "hex": "#FEFFFE"
+          },
+          {
+            "hex": "#8FC9FF"
+          },
+          {
+            "hex": "#DBDADA"
+          }
+        ],
+        "customOptions": {
+          "dropLength": "7",
+          "dropValueStart": "0.6",
+          "dropMinTime": "0.3",
+          "dropMaxTime": "3",
+          "speed": "3"
+        }
+      }
+    },
+    {
+      "name": "Pastel Blue \u0026 Whites",
+      "type": 0,
+      "id": 16,
+      "options": {
+        "colors": [
+          {
+            "hex": "#AEFBFF"
+          },
+          {
+            "hex": "#A9D4FF"
+          },
+          {
+            "hex": "#ADC4FE"
+          },
+          {
+            "hex": "#6EB3FF"
+          },
+          {
+            "hex": "#82F2FF"
+          }
+        ],
+        "customOptions": {
+          "advance": "0.02",
+          "colorAdvance": "0.0001"
+        }
+      }
+    },
+    {
+      "name": "Blue \u0026 Purple Dots",
+      "type": 0,
+      "id": 17,
+      "options": {
+        "colors": [
+          {
+            "hex": "#46EBE2"
+          },
+          {
+            "hex": "#1028FE"
+          },
+          {
+            "hex": "#A910FC"
+          },
+          {
+            "hex": "#02ADF9"
+          }
+        ],
+        "customOptions": {
+          "advance": "0.02",
+          "colorAdvance": "0.0001"
+        }
+      }
+    },
+    {
+      "name": "Winter",
+      "type": 0,
+      "id": 18,
+      "options": {
+        "colors": [
+          {
+            "hex": "#FFFEFF"
+          },
+          {
+            "hex": "#8DCEFE"
+          },
+          {
+            "hex": "#D5BDFE"
+          },
+          {
+            "hex": "#2B80FF"
+          },
+          {
+            "hex": "#D3FFFE"
+          },
+          {
+            "hex": "#0F4CE0"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "Fall",
+      "type": 0,
+      "id": 19,
+      "options": {
+        "colors": [
+          {
+            "hex": "#FF2B26"
+          },
+          {
+            "hex": "#FE691F"
+          },
+          {
+            "hex": "#FFB53F"
+          },
+          {
+            "hex": "#CC0112"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "Easter",
+      "type": 0,
+      "id": 20,
+      "options": {
+        "colors": [
+          {
+            "hex": "#9BDDFF"
+          },
+          {
+            "hex": "#FFC0D9"
+          },
+          {
+            "hex": "#FFFB9B"
+          },
+          {
+            "hex": "#E5BCFF"
+          },
+          {
+            "hex": "#FFFEFE"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "Gold Dots",
+      "type": 0,
+      "id": 21,
+      "options": {
+        "colors": [
+          {
+            "hex": "#FFF332"
+          },
+          {
+            "hex": "#FFD73D"
+          },
+          {
+            "hex": "#FFEF8F"
+          },
+          {
+            "hex": "#FFFFC7"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "Blue \u0026 Orange Pastel",
+      "type": 0,
+      "id": 22,
+      "options": {
+        "colors": [
+          {
+            "hex": "#66BBFF"
+          },
+          {
+            "hex": "#427CFE"
+          },
+          {
+            "hex": "#FFAC1A"
+          },
+          {
+            "hex": "#FFA701"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "Purple \u0026 Magenta",
+      "type": 0,
+      "id": 23,
+      "options": {
+        "colors": [
+          {
+            "hex": "#AB07FD"
+          },
+          {
+            "hex": "#FF05B9"
+          },
+          {
+            "hex": "#FF2D95"
+          },
+          {
+            "hex": "#A230FF"
+          },
+          {
+            "hex": "#D488FF"
+          },
+          {
+            "hex": "#C67FFF"
+          }
+        ],
+        "customOptions": {
+          "speed": "0.5",
+          "smoothness": "2.0"
+        }
+      }
+    },
+    {
+      "name": "Lavender",
+      "type": 0,
+      "id": 24,
+      "options": {
+        "colors": [
+          {
+            "hex": "#EDA4FF"
+          },
+          {
+            "hex": "#FFFBFE"
+          },
+          {
+            "hex": "#E6C9FF"
+          },
+          {
+            "hex": "#E4ACFE"
+          }
+        ],
+        "customOptions": {}
+      }
+    },
+    {
+      "name": "Purple \u0026 Green",
+      "type": 0,
+      "id": 25,
+      "options": {
+        "colors": [
+          {
+            "hex": "#C412FF"
+          },
+          {
+            "hex": "#3FFF21"
+          }
+        ],
+        "customOptions": {
+          "advance": "0.02",
+          "colorAdvance": "0.0001"
+        }
+      }
+    }
+  ],
+  "lastSceneSelected": 23
+}
